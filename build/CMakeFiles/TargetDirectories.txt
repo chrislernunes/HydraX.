@@ -1,0 +1,9 @@
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/hydra.dir
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/hydra_bench.dir
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/hydra_live.dir
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/list_install_components.dir
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/install.dir
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/install/local.dir
+C:/Users/User/Desktop/VSC Projects/hydra-exchange/build/CMakeFiles/install/strip.dir
