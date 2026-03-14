@@ -209,18 +209,6 @@ All agent callbacks that submit orders include an `in_action_` guard. The synchr
 | `binance/ws_client.hpp` | From-scratch TLS WebSocket (OpenSSL + Winsock/BSD) |
 | `binance/binance_stream.hpp` | Dependency-free JSON parser for Binance streams |
 
----
-
-## Academic Paper
-
-A working paper describing the system design, models, and empirical results is available:
-
-**HydraExchange: Design and Implementation of a High-Performance Electronic Exchange Simulator with Real-Time Microstructure Analytics**
-Ujhn, Independent Researcher, Mumbai (2025)
-
-Available on SSRN. JEL: G14 · G15 · C63 · C61
-
----
 
 ## License
 
