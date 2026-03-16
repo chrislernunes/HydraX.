@@ -216,4 +216,4 @@ MIT License — free to use for research and commercial purposes with attributio
 
 ---
 
-*Built by a quant trader for quant traders. Feedback and pull requests welcome.*
+*Feedback and pull requests welcome.*
